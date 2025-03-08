@@ -1,0 +1,11 @@
+{
+    "pages": [
+        "pages/classIntro/classIntro",
+        "pages/homework/homework",
+        "pages/index/index",
+        "pages/logs/logs"
+      ],
+      "window": {
+        "navigationBarTitleText": "作业布置"
+      }
+  }

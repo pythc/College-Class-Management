@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .welcome-text {
+    font-size: 32rpx;
+    color: #333;
+    margin-bottom: 40rpx;
+  }
+  
+  button {
+    margin-top: 40rpx;
+  }

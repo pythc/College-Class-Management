@@ -1,0 +1,10 @@
+<view class="container">
+  <text class="welcome-text">{{welcomeText}}</text>
+  <button bindtap="handleButtonClick">点击我</button>
+
+        <view style="display:flex; flex-direction:column; height: 150px; padding: 10px; margin-bottom: 10px;">
+          <view style="background-color: #F1F1F1; flex: 1;"></view>
+          <view style="background-color: #E6E6E6; flex: 1;"></view>
+          <view style="background-color: #F1F1F1; flex: 1;"></view>
+        </view>
+      </view>

@@ -1,0 +1,8 @@
+<view class="container">
+  <image class="logo" src="C:\Users\zcy28\WeChatProjects\miniprogram-1\images\班徽.PNG"></image>
+  <text class="welcome-text">欢迎使用班级小程序</text>
+  <view class="loading" wx:if="{{isLoading}}">
+  <text>加载中...</text>
+  </view>
+</view>
+

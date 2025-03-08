@@ -1,0 +1,18 @@
+<view class="container">
+  <text class="title">作业布置</text>
+  <form bindsubmit="onSubmit">
+    <view class="form-item">
+      <text>作业标题：</text>
+      <input name="title" placeholder="请输入作业标题" />
+    </view>
+    <view class="form-item">
+      <text>作业内容：</text>
+      <textarea name="content" placeholder="请输入作业内容" />
+    </view>
+    <view class="form-item">
+      <text>截止日期：</text>
+      <input name="deadline" type="date" />
+    </view>
+    <button formType="submit">提交作业</button>
+  </form>
+</view>

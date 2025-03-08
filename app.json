@@ -1,0 +1,43 @@
+{
+    "pages": [
+      "pages/cover/cover",
+      "pages/classIntro/classIntro",
+      "pages/homework/homework",
+      "pages/index/index",
+      "pages/logs/logs",
+      "pages/todo/todo",
+      "pages/notice/notice",
+      "pages/me/me"
+    ],
+    "window": {
+      "navigationBarTitleText": "班级管理小程序"
+    },
+    "tabBar": {
+        "list": [
+          {
+            "pagePath": "pages/index/index",
+            "text": "首页",
+            "iconPath": "/images/index.png",
+            "selectedIconPath": "/images/index-active.png"
+          },
+          {
+            "pagePath": "pages/todo/todo",
+            "text": "待办",
+            "iconPath": "/images/todo.png",
+            "selectedIconPath": "/images/todo-active.png"
+          },
+          {
+            "pagePath": "pages/notice/notice",
+            "text": "通知",
+            "iconPath": "/images/notice.png",
+            "selectedIconPath": "/images/notice-active.png"
+          },
+          {
+            "pagePath": "pages/me/me",
+            "text": "我的",
+            "iconPath": "/images/me.png",
+            "selectedIconPath": "/images/me-active.png"
+          }
+        ]
+      }
+  }

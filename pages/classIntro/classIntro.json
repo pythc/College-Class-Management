@@ -1,0 +1,10 @@
+{
+    "pages": [
+      "pages/classIntro/classIntro",
+      "pages/index/index",
+      "pages/logs/logs"
+    ],
+    "window": {
+      "navigationBarTitleText": "班级简介"
+    }
+}

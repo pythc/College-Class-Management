@@ -1,0 +1,4 @@
+<view class="container">
+  <text class="title">班级简介</text>
+  <text class="content">这里是班级简介的内容，包括班级名称、班主任、班级口号等。</text>
+</view>
