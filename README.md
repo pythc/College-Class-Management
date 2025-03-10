@@ -50,7 +50,7 @@
 
 ## 许可证
 
-本项目采用 [MIT License](LICENSE)。
+本项目采用 [MIT License](https://github.com/pythc/College-Class-Management/blob/main/MIT%20License)。
 
 ---
 
